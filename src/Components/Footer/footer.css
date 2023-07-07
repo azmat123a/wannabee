@@ -1,0 +1,19 @@
+.footer {
+  background: #ffb814;
+  border-radius: 6em 6em 0em 0em;
+}
+
+.footer h1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+.footer .section1 .left h1 {
+  margin-top: -5rem;
+  margin-left: 4.6rem;
+}
+
+
+.footer span,li {
+  font-size: 32px;
+  font-weight: 400;
+}

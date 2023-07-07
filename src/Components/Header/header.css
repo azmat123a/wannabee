@@ -1,0 +1,21 @@
+.header {
+  font-family: "Inter", sans-serif;
+  background: #ffb814;
+}
+.header .logo img {
+  width: 273px !important;
+  height: 273px !important;
+}
+.header .menu {
+  font-weight: 700;
+  font-size: 26px;
+}
+.header .section2 h1 {
+  font-weight: 700;
+  font-size: 80px;
+}
+.header .section2 img {
+  width: 172px;
+  height: 172px;
+  margin-bottom: -5rem;
+}
